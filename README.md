@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Oluwafemi but you can call me Femi 👋
+
+I am a Junior Full Stack Developer from London currently based in Cardiff. At present I am taking a Diploma in Full Stack Software Development with Code Institute
 
 <!--
 **ofemiashiru/ofemiashiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
