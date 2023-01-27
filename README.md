@@ -5,20 +5,21 @@ Hi I'm Oluwafemi but you can call me Femi 👋
 <h3 align="center">
 I am a Junior Full Stack Developer based in Cardiff. 
 </h3>
+<div align="center">
+  🌱 I’m currently working on completing my Diploma in Full Stack Software Development 
 
-- 🌱 I’m currently working on completing my Diploma in Full Stack Software Development 
+  📫 How to reach me: 
 
-📫 How to reach me: 
-
-<a href="https://www.linkedin.com/in/ofemiashiru/" target="_blank" > 
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
-<a href="https://twitter.com/ofemiashiru" target="_blank" > 
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >
-</a>
-<a href="mailto:ofemiashiru@gmail.com"> 
-  <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-</a> 
+  <a href="https://www.linkedin.com/in/ofemiashiru/" target="_blank" > 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="https://twitter.com/ofemiashiru" target="_blank" > 
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >
+  </a>
+  <a href="mailto:ofemiashiru@gmail.com"> 
+    <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+  </a> 
+</div>
 
 <h3>🪛 Tools</h3>
 
@@ -36,7 +37,6 @@ I am a Junior Full Stack Developer based in Cardiff.
 <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" > <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
 
 <h3>📈 Stats</h3>
-<img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofemiashiru&theme=tokyonight">
 <img alt="My Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ofemiashiru&theme=tokyonight" >
 
 <!--
