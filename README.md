@@ -3,7 +3,7 @@ Hi I'm Oluwafemi but you can call me Femi 👋
 </h2>
 
 <h3 align="center">
-I am a Junior Full Stack Developer based in Cardiff. 
+I am a Junior Software Engineer based in Cardiff. 
 </h3>
 <div align="center">
   🌱 I’m currently working on completing my Diploma in Full Stack Software Development <br><br>
