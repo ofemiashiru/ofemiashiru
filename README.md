@@ -6,7 +6,6 @@ Hi I'm Oluwafemi but you can call me Femi 👋
 I am a Software Engineer based in Cardiff. 
 </h3>
 <div align="center">
-  🎓 Recently completed a Diploma in Full Stack Software Development <br><br>
   
   📫 How to reach me: 
 
