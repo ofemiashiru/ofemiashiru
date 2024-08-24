@@ -15,7 +15,7 @@ I am a Software Engineer based in Cardiff.
   <a href="https://twitter.com/ofemiashiru" target="_blank" > 
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >
   </a>
-  <a href="mailto:ofemiashiru@gmail.com"> 
+  <a href="mailto:femi.ashiru.code@gmail.com"> 
     <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a> 
 </div>
